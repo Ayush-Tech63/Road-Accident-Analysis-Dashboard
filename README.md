@@ -71,5 +71,7 @@ Open in Power BI Desktop
 Explore filters and visuals
 Analyze trends and insights
 
+<img width="1307" height="733" alt="Road Accident Analysis" src="https://github.com/user-attachments/assets/48c34001-8072-4da7-8bef-cec09088a73c" />
+
 
 
