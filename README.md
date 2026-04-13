@@ -44,20 +44,6 @@ Excel / CSV dataset – Data source
 Data Cleaning & Transformation
 Data Visualization
 DAX Measures
-📂 Project Structure
-Road-Accident-Analysis/
-│
-├── Dataset/
-│   └── road_accident_data.csv
-│
-├── Dashboard/
-│   └── Road Accident Analysis.pbix
-│
-└── README.md
-📷 Dashboard Preview
-
-(Add screenshot image here after uploading to GitHub)
-
 # 💡 Skills Demonstrated
 Data Cleaning
 Data Visualization
@@ -70,6 +56,7 @@ Download the .pbix file
 Open in Power BI Desktop
 Explore filters and visuals
 Analyze trends and insights
+# (Add screenshot image here after uploading to GitHub)
 
 <img width="1307" height="733" alt="Road Accident Analysis" src="https://github.com/user-attachments/assets/48c34001-8072-4da7-8bef-cec09088a73c" />
 
